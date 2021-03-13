@@ -77,7 +77,7 @@ alias dir="docker rmi "
 alias dc='docker-compose'
 alias dv='docker volume'
 alias dn='docker network'
-
+alias gg='go get -u -v'
 #test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
 eval "$(starship init zsh)"
 
